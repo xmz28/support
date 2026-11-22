@@ -1,13 +1,20 @@
-# Support xmz28
+# ☕ Buy me a coffee
 
 **English** · [简体中文](README.zh-CN.md)
 
-If my projects have been helpful, you can support my work by buying me a coffee. Contributions are optional. Project downloads and use are free.
+[CarWithin](https://github.com/xmz28/CarWithin) · [Ninebot Pro](https://github.com/xmz28/ninebot_pro)
 
-## Alipay
+Both projects started as small side projects. Thank you to everyone who shared their experience and helped me find connection, compatibility, and display issues on different devices.
 
-Open Alipay and scan the QR code.
+Both projects are currently free to use. The projects and downloads are hosted on GitHub, and the web pages use GitHub Pages. The **AI tools I use to help with development cost about RMB 1,500 per year**. I also spend time adding device support, testing on hardware, fixing bugs, and updating the documentation.
 
-<img src="alipay.jpg" width="300" alt="Alipay payment QR code">
+If these tools have been useful to you, you're welcome to buy me a coffee.
+
+| Alipay QR code | WeChat appreciation code |
+| :---: | :---: |
+| <img src="assets/alipay.png" width="156" alt="Alipay QR code"> | <img src="assets/wechat.png" width="156" alt="WeChat appreciation code"> |
+| [Open the Alipay link](https://qr.alipay.com/fkx16608y1puemmltuocze0) | [View the full-size WeChat code](assets/wechat.png) |
+
+**Contributions are entirely optional. Downloads, features, and updates are available to everyone.** Starring a project, sharing it, or reporting an issue also helps.
 
 [Back to my GitHub profile](https://github.com/xmz28)
