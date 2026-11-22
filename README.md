@@ -1,20 +1,20 @@
-# ☕ Buy me a coffee
+# ☕ 请我喝杯咖啡
 
-**English** · [简体中文](README.zh-CN.md)
+**简体中文** · [English](README.en.md)
 
 [CarWithin](https://github.com/xmz28/CarWithin) · [Ninebot Pro](https://github.com/xmz28/ninebot_pro)
 
-Both projects started as small side projects. Thank you to everyone who shared their experience and helped me find connection, compatibility, and display issues on different devices.
+这两个项目最初是我出于兴趣做的小工具。感谢大家分享使用体验，帮我发现不同设备上的连接、兼容和投屏问题。
 
-Both projects are currently free to use. The projects and downloads are hosted on GitHub, and the web pages use GitHub Pages. The **AI tools I use to help with development cost about RMB 1,500 per year**. I also spend time adding device support, testing on hardware, fixing bugs, and updating the documentation.
+两个项目目前都可以免费使用。代码和安装包托管在 GitHub，网页使用 GitHub Pages。我用来辅助开发的 **AI 工具每年约 1,500 元**，平时也会花时间做设备适配、实机测试、修复问题和维护文档。
 
-If these tools have been useful to you, you're welcome to buy me a coffee.
+如果这些工具帮到了你，欢迎请我喝杯咖啡。
 
-| Alipay QR code | WeChat appreciation code |
+| 支付宝收款码 | 微信赞赏码 |
 | :---: | :---: |
-| <img src="assets/alipay.png" width="156" alt="Alipay QR code"> | <img src="assets/wechat.png" width="156" alt="WeChat appreciation code"> |
-| [Open the Alipay link](https://qr.alipay.com/fkx16608y1puemmltuocze0) | [View the full-size WeChat code](assets/wechat.png) |
+| <img src="assets/alipay.png" width="156" alt="支付宝收款码"> | <img src="assets/wechat.png" width="156" alt="微信赞赏码"> |
+| [打开支付宝链接](https://qr.alipay.com/fkx16608y1puemmltuocze0) | [查看微信赞赏码大图](assets/wechat.png) |
 
-**Contributions are entirely optional. Downloads, features, and updates are available to everyone.** Starring a project, sharing it, or reporting an issue also helps.
+**赞赏完全自愿，下载、使用和更新照常。** 给项目点个 Star、分享给有需要的朋友，或反馈问题，也是在支持。
 
-[Back to my GitHub profile](https://github.com/xmz28)
+[返回 GitHub 个人主页](https://github.com/xmz28)
