@@ -18,3 +18,9 @@ If these tools have been useful to you, you're welcome to buy me a coffee.
 **Contributions are entirely optional. Downloads, features, and updates are available to everyone.** Starring a project, sharing it, or reporting an issue also helps.
 
 [Back to my GitHub profile](https://github.com/xmz28)
+
+## Supporter and contributor list
+
+The app reads [supporters.json](supporters.json) for the appreciation and development/testing list. Public supporter records contain only a display name and color, without payment amounts, transaction times, avatars or payment evidence. Matching name and avatar can identify repeat support; a masked name alone is insufficient.
+
+Code contributions: [yiquchangge1](https://github.com/yiquchangge1), [武汉 / yuliang-shuji](https://github.com/yuliang-shuji), [Boos4721](https://github.com/Boos4721), [扫毒单位 / SDDW007](https://github.com/SDDW007).

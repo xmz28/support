@@ -18,3 +18,9 @@
 **赞赏完全自愿，下载、使用和更新照常。** 给项目点个 Star、分享给有需要的朋友，或反馈问题，也是在支持。
 
 [返回 GitHub 个人主页](https://github.com/xmz28)
+
+## 赞赏与贡献名单
+
+App 通过 [supporters.json](supporters.json) 更新赞赏及开发测试贡献名单。公开赞赏记录只包含展示昵称和颜色，不包含金额、交易时间、头像或收款证据。头像和姓名均相同时可合并累计，仅脱敏姓名相同不直接认定为同一人。
+
+代码贡献鸣谢：[yiquchangge1](https://github.com/yiquchangge1)、[武汉 / yuliang-shuji](https://github.com/yuliang-shuji)、[Boos4721](https://github.com/Boos4721)、[扫毒单位 / SDDW007](https://github.com/SDDW007)。
