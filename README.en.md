@@ -19,28 +19,10 @@ If these tools have been useful to you, you're welcome to buy me a coffee.
 
 [Back to my GitHub profile](https://github.com/xmz28)
 
-## Supporters
+## Thank you for your support
 
-Thank you to everyone who supported the project. Updated November 25, 2026.
+Every contribution helps keep these projects moving. **51 supporters** · Updated November 25, 2026
 
-### Gold
+![Supporter names grouped by appreciation color](assets/supporters-en.svg)
 
-&#42;&#42;芳 · &#42;凡 · 带你去看海 · Romeo · &#42;鑫
-
-### Purple
-
-&#42;&#42;凡
-
-### Blue
-
-&#42;&#42;生 · &#42;&#42;宇 · &#42;&#42;明 · &#42;&#42;洁 · &#42;涛 · &#42;晨
-
-### Green
-
-&#42;&#42;栋 · &#42;&#42;成 · &#42;&#42;岷 · &#42;&#42;燊 · &#42;&#42;志 · &#42;&#42;超 · &#42;&#42;杰 · &#42;定 · &#42;健 · &#42;&#42;良 · &#42;&#42;飞 · &#42;&#42;铭 · 正美旅行🤿海岛潜水 Ryan · &#42;&#42;明 · &#42;林 · &#42;&#42;焕 · &#42;&#42;丽 · &#42;&#42;杰 · &#42;&#42;鸿
-
-### Thank you
-
-&#42;超 · &#42;&#42;华 · &#42;&#42;栋 · &#42;&#42;亮 · &#42;&#42;烛 · &#42;&#42;荣 · &#42;&#42;晨 · &#42;&#42;飞 · &#42;乐 · &#42;&#42;旭 · &#42;&#42;雷 · &#42;&#42;圩 · &#42;&#42;岑 · &#42;&#42;阳 · &#42;&#42;庆 · z · 别说真心话. · &#42;&#42;豪 · &#42;&#42;霖 · &#42;&#42;涛
-
-Names are grouped by appreciation color; payment amounts and avatars are not published. Matching names and avatars can identify repeat support; a masked name alone is insufficient. Apps read [supporters.json](supporters.json) for list updates.
+Names are separated by spaces. The colors express our thanks; payment amounts and avatars are not published. [View the data used by the app](supporters.json).
