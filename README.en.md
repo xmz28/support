@@ -26,3 +26,28 @@ Every contribution helps keep these projects moving. **83 supporter entries** ·
 ![Supporter names grouped by appreciation color](assets/supporters-en.svg)
 
 Names are separated by spaces. Name colors reflect cumulative contributions as a gesture of thanks; payment amounts and avatars are not published. [View the data used by the app](supporters.json).
+
+<details>
+<summary>Searchable text list</summary>
+
+**Gold**
+
+\*\*芳　\*凡　带你去看海　Romeo　\*鑫
+
+**Purple**
+
+\*\*凡　\*\*源　\*\*森　你好难哄
+
+**Blue**
+
+\*\*生　\*\*宇　\*\*明　\*\*洁　\*涛　\*晨　\*\*飞　\*胤　\*辉　伏月　澪空　龙辰名表
+
+**Green**
+
+\*\*栋　\*\*成　\*\*岷　\*\*燊　\*\*志　\*\*超　\*\*杰　\*定　\*健　\*\*良　\*\*飞　\*\*铭　正美旅行🤿海岛潜水 Ryan　\*\*明　\*林　\*\*焕　\*\*丽　\*\*杰　\*\*鸿　\*\*容　\*\*易　\*\*华　\*\*勇　\*\*鹏　\*\*海　\*\*旭　\*\*杰　\*\*钧　Aa
+
+**Thank you**
+
+\*超　\*\*华　\*\*栋　\*\*亮　\*\*烛　\*\*荣　\*\*晨　\*\*飞　\*乐　\*\*旭　\*\*雷　\*\*圩　\*\*岑　\*\*阳　\*\*庆　z　别说真心话.　\*\*豪　\*\*霖　\*\*涛　\*\*庭　\*\*\*\*.\*\*依　\*\*程　\*凡　\*\*武　\*进　\*晨　\*\*豪　\*\*铭　。　DD　〉　匿名支持者
+
+</details>
