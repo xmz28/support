@@ -1,6 +1,11 @@
 from pathlib import Path
 import json,html,unicodedata
 root=Path(__file__).resolve().parents[1];data=json.loads((root/'supporters.json').read_text())
+from datetime import datetime
+cutoff=datetime.fromisoformat(data['updated_through'])
+zh_cutoff=cutoff.strftime('%Y-%m-%d %H:%M')+'（北京时间）'
+en_cutoff=cutoff.strftime('%Y-%m-%d %H:%M')+' (UTC+08:00)'
+count=len(data['supporters'])
 groups=[('gold','#b78319','#fff9ea','金色','Gold'),('purple','#8556bc','#f8f3ff','紫色','Purple'),('blue','#3275bd','#f0f7ff','蓝色','Blue'),('green','#338768','#eff9f4','绿色','Green'),('standard','#65748b','#f5f7fa','感谢支持','Thank you')]
 def width(s):return sum(17 if c == '\u2003' or unicodedata.east_asian_width(c) in 'WF' else 9 for c in s)
 for lang in ['zh','en']:
@@ -20,5 +25,5 @@ for lang in ['zh','en']:
  (root/f'assets/supporters-{lang}.svg').write_text(svg)
 for name in ['README.md','README.zh-CN.md','README.en.md']:
  p=root/name;s=p.read_text();en=name=='README.en.md';a=s.index('\n## Thank you for your support' if en else '\n## 感谢每一份支持');s=s[:a]
- s+=('\n## Thank you for your support\n\nEvery contribution helps keep these projects moving. **51 supporters** · Updated November 25, 2026\n\n![Supporter names grouped by appreciation color](assets/supporters-en.svg)\n\nNames are separated by spaces. The colors express our thanks; payment amounts and avatars are not published. [View the data used by the app](supporters.json).\n' if en else '\n## 感谢每一份支持\n\n每一份支持，都在帮助这些小工具继续前进。**51 条赞赏记录** · 更新于 2026 年 11 月 25 日\n\n![按赞赏颜色分组的支持者名单](assets/supporters-zh.svg)\n\n名字之间留白排列，颜色仅用于表达感谢，不公开金额或头像。[查看 App 同步名单](supporters.json)。\n');p.write_text(s.replace('51 supporters', str(len(data['supporters']))+' supporters').replace('51 条赞赏记录', str(len(data['supporters']))+' 条赞赏记录'))
+ s+=('\n## Thank you for your support\n\nEvery contribution helps keep these projects moving. **{count} supporter entries** · Records through {en_cutoff}\n\n![Supporter names grouped by appreciation color](assets/supporters-en.svg)\n\nNames are separated by spaces. Name colors reflect cumulative contributions as a gesture of thanks; payment amounts and avatars are not published. [View the data used by the app](supporters.json).\n' if en else '\n## 感谢每一份支持\n\n每一份支持，都在帮助这些小工具继续前进。**{count} 个展示条目** · 记录截止 {zh_cutoff}\n\n![按赞赏颜色分组的支持者名单](assets/supporters-zh.svg)\n\n名字之间留白排列，昵称颜色按累计赞赏金额区分，仅用于表达感谢；不公开金额或头像。[查看 App 同步名单](supporters.json)。\n');p.write_text(s.replace('{count}',str(count)).replace('{zh_cutoff}',zh_cutoff).replace('{en_cutoff}',en_cutoff))
 print('Generated two SVG supporter panels; no names omitted')

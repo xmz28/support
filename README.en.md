@@ -21,8 +21,8 @@ If these tools have been useful to you, you're welcome to buy me a coffee.
 
 ## Thank you for your support
 
-Every contribution helps keep these projects moving. **51 supporters** · Updated November 25, 2026
+Every contribution helps keep these projects moving. **83 supporter entries** · Records through 2026-11-27 08:32 (UTC+08:00)
 
 ![Supporter names grouped by appreciation color](assets/supporters-en.svg)
 
-Names are separated by spaces. The colors express our thanks; payment amounts and avatars are not published. [View the data used by the app](supporters.json).
+Names are separated by spaces. Name colors reflect cumulative contributions as a gesture of thanks; payment amounts and avatars are not published. [View the data used by the app](supporters.json).

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
-  "revision": 2026112501,
-  "updated_at": "2026-11-25",
+  "revision": 2026112701,
+  "updated_at": "2026-11-27",
   "supporters": [
     {
       "id": "s0001",
@@ -257,6 +257,166 @@
       "id": "s0069",
       "name": "**鸿",
       "color": "green"
+    },
+    {
+      "id": "s0070",
+      "name": "**源",
+      "color": "purple"
+    },
+    {
+      "id": "s0071",
+      "name": "**容",
+      "color": "green"
+    },
+    {
+      "id": "s0073",
+      "name": "**易",
+      "color": "green"
+    },
+    {
+      "id": "s0074",
+      "name": "**庭",
+      "color": "standard"
+    },
+    {
+      "id": "s0075",
+      "name": "**飞",
+      "color": "blue"
+    },
+    {
+      "id": "s0076",
+      "name": "****.**依",
+      "color": "standard"
+    },
+    {
+      "id": "s0077",
+      "name": "**程",
+      "color": "standard"
+    },
+    {
+      "id": "s0078",
+      "name": "*凡",
+      "color": "standard"
+    },
+    {
+      "id": "s0079",
+      "name": "*胤",
+      "color": "blue"
+    },
+    {
+      "id": "s0080",
+      "name": "**武",
+      "color": "standard"
+    },
+    {
+      "id": "s0081",
+      "name": "**华",
+      "color": "green"
+    },
+    {
+      "id": "s0083",
+      "name": "**勇",
+      "color": "green"
+    },
+    {
+      "id": "s0084",
+      "name": "*进",
+      "color": "standard"
+    },
+    {
+      "id": "s0085",
+      "name": "*晨",
+      "color": "standard"
+    },
+    {
+      "id": "s0086",
+      "name": "**豪",
+      "color": "standard"
+    },
+    {
+      "id": "s0088",
+      "name": "**铭",
+      "color": "standard"
+    },
+    {
+      "id": "s0089",
+      "name": "**鹏",
+      "color": "green"
+    },
+    {
+      "id": "s0090",
+      "name": "*辉",
+      "color": "blue"
+    },
+    {
+      "id": "s0091",
+      "name": "**海",
+      "color": "green"
+    },
+    {
+      "id": "s0093",
+      "name": "**旭",
+      "color": "green"
+    },
+    {
+      "id": "s0094",
+      "name": "**杰",
+      "color": "green"
+    },
+    {
+      "id": "s0096",
+      "name": "**钧",
+      "color": "green"
+    },
+    {
+      "id": "s0097",
+      "name": "**森",
+      "color": "purple"
+    },
+    {
+      "id": "s0098",
+      "name": "你好难哄",
+      "color": "purple"
+    },
+    {
+      "id": "s0099",
+      "name": "Aa",
+      "color": "green"
+    },
+    {
+      "id": "s0100",
+      "name": "。",
+      "color": "standard"
+    },
+    {
+      "id": "s0101",
+      "name": "DD",
+      "color": "standard"
+    },
+    {
+      "id": "s0102",
+      "name": "伏月",
+      "color": "blue"
+    },
+    {
+      "id": "s0103",
+      "name": "〉",
+      "color": "standard"
+    },
+    {
+      "id": "s0104",
+      "name": "澪空",
+      "color": "blue"
+    },
+    {
+      "id": "s0105",
+      "name": "龙辰名表",
+      "color": "blue"
+    },
+    {
+      "id": "s0106",
+      "name": "匿名支持者",
+      "color": "standard"
     }
   ],
   "contributors": [
@@ -284,5 +444,6 @@
       "category": "code",
       "github": "SDDW007"
     }
-  ]
+  ],
+  "updated_through": "2026-11-27T08:32:00+08:00"
 }
